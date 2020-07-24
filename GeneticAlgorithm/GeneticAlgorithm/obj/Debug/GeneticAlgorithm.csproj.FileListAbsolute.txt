@@ -1,0 +1,9 @@
+F:\18120900\桌面\C#实验\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+F:\18120900\桌面\C#实验\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+F:\18120900\桌面\C#实验\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+F:\18120900\桌面\C#实验\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+F:\18120900\桌面\C#实验\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+F:\18120900\桌面\C#实验\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+F:\18120900\桌面\C#实验\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+F:\18120900\桌面\C#实验\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+F:\18120900\桌面\C#实验\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
